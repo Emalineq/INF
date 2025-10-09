@@ -80,6 +80,16 @@
 # for i in range(2,n+1,2):
 #     vysledok+=i
 # print(vysledok)
+#
+# # uloha 14
+# a=int(input("<odkial>:"))
+# b=int(input("<pokial>:"))
+# vysledok=0
+# for i in range(a,b+1):
+#     if i%8==0:
+#        vysledok+=1
+# print("cisla co delitelne dvomi su:", vysledok)
+
 
 
 
